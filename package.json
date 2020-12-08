@@ -1,0 +1,30 @@
+{
+  "name": "tee-eye-ell",
+  "version": "1.0.0",
+  "description": "A quick-and-dirty project to store new things I have learned",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeengland/tee-eye-ell.git"
+  },
+  "author": "jeengland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeengland/tee-eye-ell/issues"
+  },
+  "homepage": "https://github.com/jeengland/tee-eye-ell#readme",
+  "dependencies": {
+    "@theme-ui/presets": "^0.3.4",
+    "dotenv-load": "^2.0.0",
+    "next": "^10.0.3",
+    "next-env": "^1.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.3.4"
+  }
+}
